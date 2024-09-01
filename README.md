@@ -1,1 +1,8 @@
 # leaflet-challenge
+Earthquake Data Visualization
+
+This project is designed to visualize global earthquake data using Leaflet, a JavaScript library for interactive maps. The primary goal is to create an interactive tool that allows users to explore earthquake occurrences by visualizing their magnitude and depth. The visualization includes an optional overlay of tectonic plate boundaries to help illustrate the relationship between seismic activity and tectonic movements.
+
+The United States Geological Survey (USGS) collects vast amounts of data on earthquakes worldwide. This project was created to help the USGS and the public better understand and visualize this data. By providing an interactive map, users can explore earthquake data with meaningful context, aiding in education and decision-making.
+
+Key features of this project include an interactive map that plots earthquakes based on their latitude and longitude, with markers sized according to earthquake magnitude and color-coded by depth. The map includes custom popups that display detailed information about each earthquake, such as location, magnitude, depth, and the time of occurrence. A dynamic legend explains the color-coding scheme for earthquake depth. Additionally, the map can display tectonic plate boundaries, providing insights into the connection between these boundaries and seismic activity.This project uses JavaScript for logic and interaction, Leaflet for interactive mapping, and HTML/CSS for web page structure and styling.
